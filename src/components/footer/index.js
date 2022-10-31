@@ -22,35 +22,35 @@ const Footer = () => {
           <div className="col-lg-3 col-md-4">
             <ul className="nav-footer">
               <li>
-                <a href="">Our Services</a>
+                <span>Our Services</span>
               </li>
               <li>
-                <a href="">Why Us</a>
+                <span>Why Us</span>
               </li>
               <li>
-                <a href="">Testimonial</a>
+                <span>Testimonial</span>
               </li>
               <li>
-                <a href="">FAQ</a>
+                <span>FAQ</span>
               </li>
             </ul>
           </div>
           <div className="col-lg-4 col-md-8">
             <div className="info-binar">
               <h4>Connect with us</h4>
-              <a href="https://www.facebook.com/binaracademy/" target="_blank">
+              <a href="https://www.facebook.com/binaracademy/" >
                 <img src={FbIcon} alt="" />
               </a>
-              <a href="https://www.instagram.com/academybinar/" target="_blank">
+              <a href="https://www.instagram.com/academybinar/" >
                 <img src={IgIcon} alt="" />
               </a>
-              <a href="https://twitter.com/academybinar" target="_blank">
+              <a href="https://twitter.com/academybinar" >
                 <img src={TwtIcon} alt="" />
               </a>
-              <a href="info@binar.co.id" target="_blank">
+              <a href="info@binar.co.id">
                 <img src={MailIcon} alt="" />
               </a>
-              <a href="https://m.twitch.tv/" target="_blank">
+              <a href="https://m.twitch.tv/">
                 <img src={TwcIcon} alt="" />
               </a>
             </div>
