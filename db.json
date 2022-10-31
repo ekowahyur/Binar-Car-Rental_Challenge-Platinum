@@ -1,0 +1,64 @@
+{
+  "cars": [
+    {
+      "name": "Mazda 3",
+      "category": "medium",
+      "price": 4000,
+      "status": true,
+      "start_rent_at": "2040-07-03T03:00:07.069Z",
+      "finish_rent_at": "2002-02-26T07:56:36.623Z",
+      "image": "http://loremflickr.com/640/480?random=1",
+      "createdAt": "2097-04-15T17:34:57.248Z",
+      "updatedAt": "2019-10-28T13:24:33.132Z",
+      "id": 1
+    },
+    {
+      "name": "Ford Impala",
+      "category": "medium",
+      "price": 400,
+      "status": false,
+      "start_rent_at": "2035-05-20T06:54:47.116Z",
+      "finish_rent_at": "2004-09-26T10:59:54.459Z",
+      "image": "http://loremflickr.com/640/480/dog",
+      "createdAt": "2035-06-25T21:54:52.426Z",
+      "updatedAt": "2007-03-05T21:57:10.179Z",
+      "id": 2
+    },
+    {
+      "name": "Rolls Royce Element",
+      "category": "large",
+      "price": 84274,
+      "status": false,
+      "start_rent_at": "2064-03-12T05:45:51.248Z",
+      "finish_rent_at": "2094-02-13T16:39:07.626Z",
+      "image": "http://loremflickr.com/640/480/paris",
+      "createdAt": "2033-03-04T23:57:54.007Z",
+      "updatedAt": "2042-09-04T07:25:54.243Z",
+      "id": 3
+    },
+    {
+      "name": "Nissan V90",
+      "category": "small",
+      "price": 7290,
+      "status": true,
+      "start_rent_at": "2040-07-03T03:00:07.069Z",
+      "finish_rent_at": "2002-02-26T07:56:36.623Z",
+      "image": "http://loremflickr.com/640/480/brazil,rio",
+      "createdAt": "2097-04-15T17:34:57.248Z",
+      "updatedAt": "2019-10-28T13:24:33.132Z",
+      "id": 4
+    },
+    {
+      "name": "Honda Civic",
+      "category": "small",
+      "price": 7290000,
+      "status": false,
+      "start_rent_at": "2040-07-03T03:00:07.069Z",
+      "finish_rent_at": "2002-02-26T07:56:36.623Z",
+      "image": "http://loremflickr.com/640/480?random=2",
+      "createdAt": "2097-04-15T17:34:57.248Z",
+      "updatedAt": "2019-10-28T13:24:33.132Z",
+      "id": 5
+    }
+  ]
+}
