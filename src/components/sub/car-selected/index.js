@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useRef } from 'react';
+import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import ArrowLeft from './assets/arrow-left.svg';
 import Rect from './assets/rect.svg';
@@ -56,8 +56,6 @@ const CarSelected = () => {
       "rek": 54104257877,
     }
   ];
-
-  
 
   return (
     <section className="selected-car">
